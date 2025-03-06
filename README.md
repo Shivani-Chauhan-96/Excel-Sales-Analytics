@@ -43,25 +43,18 @@
 - **Top 5 Countries by Sales**: The highest revenue-generating countries in 2021.
 
 ## Technical & Soft Skills:
-
--
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
-
--
-
-## Installation & Usage:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/sales-performance-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd sales-performance-analysis
-   ```
-3. Load the data into your analysis tool (Excel, SQL, Python, etc.).
-4. Run analysis scripts (if applicable).
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
 
 ## Insights:
 
@@ -70,12 +63,4 @@
 - **Quarterly Trends**: GM% saw a decline in 2021 compared to 2019 and 2020, indicating higher costs or pricing changes.
 - **Product Insights**: The AQ Mx NB saw an incredible **5623.5%** growth, while AQ Smash 2 increased by **2489.5%**.
 
-## Contributors:
-
-- [Your Name]
-- [Team Members, if applicable]
-
-## License:
-
-This project is licensed under the [MIT License](LICENSE).
 
