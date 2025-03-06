@@ -6,7 +6,7 @@
 
   **1.** Create a [_Customer Performance Report_](https://github.com/Shivani-Chauhan-96/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) analyzing trends and growth per customer from 2019 to 2021.
 
-  **2.** Conduct a comprehensive comparison between *Market Performance and Sales Targets*.
+  **2.** Conduct a comprehensive comparison between [_Market Performance and Sales Targets_](https://github.com/Shivani-Chauhan-96/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf).
 
 - **Purpose of Sales Analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
