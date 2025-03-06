@@ -18,7 +18,7 @@
 
 - **Project Objective:**
 
-  **1.** Create Profit and Loss (P&L) reports by *Fiscal Year*, *Months*, and *Markets*.
+  **1.** Create Profit and Loss (P&L) reports by [_Fiscal Year_](https://github.com/Shivani-Chauhan-96/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Year.pdf), [_Months_](https://github.com/Shivani-Chauhan-96/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20Months.pdf), and [_Markets_](https://github.com/Shivani-Chauhan-96/Excel-Sales-Analytics/blob/main/P%20%26%20L%20for%20Markets.pdf).
 
 - **Purpose of Financial Analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
